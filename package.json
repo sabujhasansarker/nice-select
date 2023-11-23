@@ -1,6 +1,6 @@
 {
   "name": "react-nice-select",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The package can be installed via [npm](https://github.com/npm/cli):",
   "main": "index.js",
   "scripts": {
