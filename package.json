@@ -1,6 +1,6 @@
 {
   "name": "react-nice-select",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "The package can be installed via [npm](https://github.com/npm/cli):",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "react"
   ],
   "author": "Sabuj Hasan Sarker",
-  "license": "ISC",
+  "license": "Artistic-2.0",
   "bugs": {
     "url": "https://github.com/sabujhasansarker/nice-select/issues"
   },
